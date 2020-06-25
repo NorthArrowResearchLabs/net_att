@@ -1,0 +1,17 @@
+[
+  {
+    "title": "VBET: Valley Bottoms of the CRB",
+    "url": "VBET",
+    "rasterTiles": {
+      "Hillshade": "BRAT_CRB/Hillshade"
+    },
+    "tiles": {
+      "50": ["BRAT_CRB/VBET/50", "#00BC49", "#00D25B"],
+      "60": ["BRAT_CRB/VBET/60", "#00A636", "#00BC49"],
+      "70": ["BRAT_CRB/VBET/70", "#009024", "#00A636"],
+      "80": ["BRAT_CRB/VBET/80", "#007A12", "#009024"],
+      "90": ["BRAT_CRB/VBET/90", "#006400", "#007A12"],
+      "100": ["BRAT_CRB/VBET/100", "#006400", "#006400"]
+    }
+  }  
+]
