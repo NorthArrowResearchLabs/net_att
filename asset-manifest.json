@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/net_att/static/css/main.e4769a32.chunk.css",
-    "main.js": "/net_att/static/js/main.ef1c5031.chunk.js",
-    "main.js.map": "/net_att/static/js/main.ef1c5031.chunk.js.map",
-    "runtime-main.js": "/net_att/static/js/runtime-main.26d1a0fb.js",
-    "runtime-main.js.map": "/net_att/static/js/runtime-main.26d1a0fb.js.map",
-    "static/css/2.483634bf.chunk.css": "/net_att/static/css/2.483634bf.chunk.css",
-    "static/js/2.ff530fc2.chunk.js": "/net_att/static/js/2.ff530fc2.chunk.js",
-    "static/js/2.ff530fc2.chunk.js.map": "/net_att/static/js/2.ff530fc2.chunk.js.map",
-    "index.html": "/net_att/index.html",
-    "precache-manifest.5c56875aa66f635784e699e69558a1aa.js": "/net_att/precache-manifest.5c56875aa66f635784e699e69558a1aa.js",
-    "service-worker.js": "/net_att/service-worker.js",
-    "static/css/2.483634bf.chunk.css.map": "/net_att/static/css/2.483634bf.chunk.css.map",
-    "static/css/main.e4769a32.chunk.css.map": "/net_att/static/css/main.e4769a32.chunk.css.map",
-    "static/js/2.ff530fc2.chunk.js.LICENSE.txt": "/net_att/static/js/2.ff530fc2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/net_att/static/media/roboto-latin-900italic.bc833e72.woff"
+    "main.css": "/netatt-web-monorepo/static/css/main.e4769a32.chunk.css",
+    "main.js": "/netatt-web-monorepo/static/js/main.69f8363b.chunk.js",
+    "main.js.map": "/netatt-web-monorepo/static/js/main.69f8363b.chunk.js.map",
+    "runtime-main.js": "/netatt-web-monorepo/static/js/runtime-main.643ce3bd.js",
+    "runtime-main.js.map": "/netatt-web-monorepo/static/js/runtime-main.643ce3bd.js.map",
+    "static/css/2.3ff1eaae.chunk.css": "/netatt-web-monorepo/static/css/2.3ff1eaae.chunk.css",
+    "static/js/2.701f7a44.chunk.js": "/netatt-web-monorepo/static/js/2.701f7a44.chunk.js",
+    "static/js/2.701f7a44.chunk.js.map": "/netatt-web-monorepo/static/js/2.701f7a44.chunk.js.map",
+    "index.html": "/netatt-web-monorepo/index.html",
+    "precache-manifest.f3a43f6a56bdce7be044ed1b8927a54e.js": "/netatt-web-monorepo/precache-manifest.f3a43f6a56bdce7be044ed1b8927a54e.js",
+    "service-worker.js": "/netatt-web-monorepo/service-worker.js",
+    "static/css/2.3ff1eaae.chunk.css.map": "/netatt-web-monorepo/static/css/2.3ff1eaae.chunk.css.map",
+    "static/css/main.e4769a32.chunk.css.map": "/netatt-web-monorepo/static/css/main.e4769a32.chunk.css.map",
+    "static/js/2.701f7a44.chunk.js.LICENSE.txt": "/netatt-web-monorepo/static/js/2.701f7a44.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/netatt-web-monorepo/static/media/roboto-latin-900italic.bc833e72.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.26d1a0fb.js",
-    "static/css/2.483634bf.chunk.css",
-    "static/js/2.ff530fc2.chunk.js",
+    "static/js/runtime-main.643ce3bd.js",
+    "static/css/2.3ff1eaae.chunk.css",
+    "static/js/2.701f7a44.chunk.js",
     "static/css/main.e4769a32.chunk.css",
-    "static/js/main.ef1c5031.chunk.js"
+    "static/js/main.69f8363b.chunk.js"
   ]
 }
