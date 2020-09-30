@@ -1,0 +1,2 @@
+#root,body,html{height:100%}body,html{position:fixed;overflow:hidden;overscroll-behavior:contain;overflow:auto;width:100%}:not(input):not(textarea),:not(input):not(textarea):after,:not(input):not(textarea):before{-webkit-user-select:none;-ms-user-select:none;user-select:none;cursor:default}:focus,button,input,textarea{outline:none}
+/*# sourceMappingURL=main.90eb341b.chunk.css.map */
